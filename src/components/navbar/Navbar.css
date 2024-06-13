@@ -1,0 +1,53 @@
+nav {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+}
+.a a {
+  /* Regular 14 */
+  color: rgb(112, 115, 124);
+  font-family: Lexend;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 178.19%;
+  letter-spacing: 0%;
+  text-align: left;
+  text-decoration: none;
+  padding-left: 16px;
+  border-left: 1px solid rgb(239, 239, 239);
+}
+.a {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.a1 {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+}
+.a2 {
+  display: flex;
+  align-items: center;
+}
+.a2 input {
+  border: 1px solid rgb(239, 239, 239);
+  outline: none;
+  border-radius: 71px;
+  padding: 12px 60px;
+  width: 285px;
+}
+.a2 img {
+  position: absolute;
+  margin-left: 20px;
+}
+header {
+  padding: 12px 0;
+  position: sticky;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  box-shadow: 0px 4px 12px 0px rgba(207, 207, 207, 0.25);
+  background: rgb(255, 255, 255);
+}

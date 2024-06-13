@@ -1,0 +1,37 @@
+.b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 24px;
+  padding: 64px 0;
+  margin-top: 32px;
+  background: rgb(234, 241, 235);
+}
+.b1 h1 {
+  /* H1 48 Semivold */
+  color: rgb(31, 37, 51);
+  font-family: Lexend;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: -5%;
+  text-align: center;
+}
+.b1 p {
+  /* Light 16 */
+  color: rgb(31, 37, 51);
+  font-family: Lexend;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 12px;
+}
+.b2 {
+  margin-left: 104px;
+}
+.b3 {
+  position: absolute;
+  margin-top: 190px;
+}
